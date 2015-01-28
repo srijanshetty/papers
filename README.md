@@ -28,7 +28,7 @@ How I created this?
 ```sh
 cd papers
 git init
-git remote add origin git@github.com/rejuvyesh/papers
+git remote add origin git@github.com/srijanshetty/papers
 git-annex init laptop
 git-annex addurl --file distributed-systems/PNUTS.pdf http://css.csail.mit.edu/6.824/2014/papers/cooper-pnuts.pdf
 git-annex add .
